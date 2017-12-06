@@ -1,0 +1,7 @@
+body{
+    background:rgb(168, 164, 164); line-height:1.3em; font-size:20pt
+}
+.lang{
+    border-width:5px;  
+    border-style:double;border-color: red;  border-radius:15px; background:rgb(164, 253, 142); padding:2px
+}
